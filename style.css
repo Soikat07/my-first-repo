@@ -1,0 +1,14 @@
+.header{
+border: 2px solid green;
+height: 50%;
+width: 50%;
+}
+h2{
+font-weight: 700;
+font-family: 'Courier New', Courier, monospace;
+color: maroon;
+}
+
+li{
+     color:gray ;
+}
