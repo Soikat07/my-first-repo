@@ -12,3 +12,9 @@ color: maroon;
 li{
      color:gray ;
 }
+p{
+     background-color: lightblue;
+     text-align: center;
+     margin: 2px;
+     padding: 2px;
+}
